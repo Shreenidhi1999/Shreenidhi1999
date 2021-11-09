@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shreenidhi1999 (Shreenidhi Hipparagi)
+- 👋 Hi, I’m @Shreenidhi1999 (Shreenidhi Hipparagi) currently working as a Data Scientist in WIOAI(www.wioai.app)
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning Deep Learning and Web Development 
+- 🌱 I’m currently learning Deep Learning and Web Development. Life goes on and on, learning never stops. 
 - 💞️ I’m looking to collaborate on any open source projects based on Machine Learning.
 - 📫 How to reach me: mail me at : shreehipparagi123@gmail.com
 
