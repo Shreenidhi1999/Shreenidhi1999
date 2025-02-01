@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shreenidhi1999 (Shreenidhi Hipparagi) currently working as a Data Scientist in ModeliCon(www.wioai.app)
+- 👋 Hi, I’m @Shreenidhi1999 (Shreenidhi Hipparagi) currently working as a Data Scientist in ModeliCon
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning Deep Learning and Web Development. Life goes on and on, learning never stops. 
-- 💞️ I’m looking to collaborate on any open source projects based on Machine Learning.
+- 💞️ I’m looking to collaborate on any open source projects based on Machine Learning and Security 
 - 📫 How to reach me: mail me at : shreehipparagi123@gmail.com
 
 <!---
